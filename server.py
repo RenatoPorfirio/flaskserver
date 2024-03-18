@@ -5,15 +5,19 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET', 'POST'])
 def homePage():
-    if request.method == 'POST':
-        ano = request.form['ano']
-        mes = request.form['mes']
-    else:
-        ano = request.args.get('ano')
-        mes = request.args.get('mes')
-    url = 'https://k8s-prd.tjrs.jus.br/public/api/transparencia/orcamento/{}/{}'.format(ano, mes)
-    dados = requests.get(url, verify=False)
-    return Response(status=dados.status_code, response=dados.text.encode(), mimetype='application/json')
+    try:
+        if request.method == 'POST':
+            ano = request.form['ano']
+            mes = request.form['mes']
+        else:
+            ano = request.args.get('ano')
+            mes = request.args.get('mes')
+        url = 'https://k8s-prd.tjrs.jus.br/public/api/transparencia/orcamento/{}/{}'.format(ano, mes)
+        dados = requests.get(url, verify=False)
+        return Response(status=dados.status_code, response=dados.text.encode(), mimetype='application/json')
+    except Exception as e:
+        print(e)
+        return Response(status=500, response='Erro interno'.encode(), mimetype='application/json')
 
 def run_dev():
     app.run(host='0.0.0.0', port=5000, debug=True)
