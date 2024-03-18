@@ -15,5 +15,5 @@ def homePage():
     dados = requests.get(url, verify=False)
     return Response(status=dados.status_code, response=dados.text.encode(), mimetype='application/json')
 
-if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=5000)
+def run_dev():
+    app.run(host='0.0.0.0', port=5000, debug=True)
