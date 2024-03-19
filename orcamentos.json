@@ -1,3 +1,1382 @@
 {
-    
+    "2023": {
+        "5": [
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.01",
+                    "unidadeOrcamentariaDescricao": "Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "01-726-2031",
+                    "programaDescricao": "Gest\u00e3o, Manuten\u00e7\u00e3o e Servi\u00e7os ao Estado",
+                    "acaoESubtitulo": "Gest\u00e3o, Manuten\u00e7\u00e3o e Servi\u00e7os ao Estado - TJ / REMUNERA\u00c7\u00c3O DE PESSOAL DO TRIBUNAL DE JUSTICA",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "1.770.204.012,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "154.700.000,00",
+                    "atualizada": "1.615.504.012,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "1.615.504.012,00"
+                },
+                "execucao": {
+                    "empenhado": "555.585.397,17",
+                    "empenhadoPorcentagem": "34,39%",
+                    "liquidado": "503.085.397,17",
+                    "liquidadoPorcentagem": "31,14%",
+                    "pago": "464.978.964,88",
+                    "pagoPorcentagem": "28,78%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.01",
+                    "unidadeOrcamentariaDescricao": "Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "01-726-6844",
+                    "programaDescricao": "Gest\u00e3o, Manuten\u00e7\u00e3o e Servi\u00e7os ao Estado",
+                    "acaoESubtitulo": "Gest\u00e3o, Manuten\u00e7\u00e3o e Servi\u00e7os ao Estado - TJ / DESPESAS GRATIFICACOES PAGAS NA FOLHA PAGTO",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "74.565.800,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "74.565.800,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "74.565.800,00"
+                },
+                "execucao": {
+                    "empenhado": "56.361.271,34",
+                    "empenhadoPorcentagem": "75,59%",
+                    "liquidado": "51.694.604,69",
+                    "liquidadoPorcentagem": "69,33%",
+                    "pago": "48.361.271,34",
+                    "pagoPorcentagem": "64,86%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.01",
+                    "unidadeOrcamentariaDescricao": "Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "01-726-6845",
+                    "programaDescricao": "Gest\u00e3o, Manuten\u00e7\u00e3o e Servi\u00e7os ao Estado",
+                    "acaoESubtitulo": "Gest\u00e3o, Manuten\u00e7\u00e3o e Servi\u00e7os ao Estado - TJ / REMUNERACAO DE AGENTES POLITICOS, CCS, FGS E VERBA DE REPRESENTACAO",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "271.500.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "271.500.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "271.500.000,00"
+                },
+                "execucao": {
+                    "empenhado": "141.506.517,41",
+                    "empenhadoPorcentagem": "52,12%",
+                    "liquidado": "129.839.850,76",
+                    "liquidadoPorcentagem": "47,82%",
+                    "pago": "121.506.517,41",
+                    "pagoPorcentagem": "44,75%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.01",
+                    "unidadeOrcamentariaDescricao": "Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "01-726-8470",
+                    "programaDescricao": "Gest\u00e3o, Manuten\u00e7\u00e3o e Servi\u00e7os ao Estado",
+                    "acaoESubtitulo": "Gest\u00e3o, Manuten\u00e7\u00e3o e Servi\u00e7os ao Estado - TJ / AUXILIOS A PESSOAL ATIVO - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "64.533.421,00",
+                    "creditosAdicionaisAcrescimo": "90.000.000,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "154.533.421,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "154.533.421,00"
+                },
+                "execucao": {
+                    "empenhado": "84.955.550,90",
+                    "empenhadoPorcentagem": "54,98%",
+                    "liquidado": "84.955.550,90",
+                    "liquidadoPorcentagem": "54,98%",
+                    "pago": "84.894.655,18",
+                    "pagoPorcentagem": "54,94%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.01",
+                    "unidadeOrcamentariaDescricao": "Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "01-726-8470",
+                    "programaDescricao": "Gest\u00e3o, Manuten\u00e7\u00e3o e Servi\u00e7os ao Estado",
+                    "acaoESubtitulo": "Gest\u00e3o, Manuten\u00e7\u00e3o e Servi\u00e7os ao Estado - TJ / AUXILIOS A PESSOAL ATIVO - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "760",
+                    "fonteDescricao": "Recursos de Emolumentos e Taxas judiciais",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "167.046.553,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "167.046.553,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "167.046.553,00"
+                },
+                "execucao": {
+                    "empenhado": "17.625.094,54",
+                    "empenhadoPorcentagem": "10,55%",
+                    "liquidado": "17.625.094,54",
+                    "liquidadoPorcentagem": "10,55%",
+                    "pago": "17.625.094,54",
+                    "pagoPorcentagem": "10,55%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.01",
+                    "unidadeOrcamentariaDescricao": "Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-1821",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ / CONVENIOS COM OUTROS ORGAOS",
+                    "esfera": "1",
+                    "fonteCodigo": "700",
+                    "fonteDescricao": "Outras Transfer\u00eancias de Conv\u00eanios ou Repasses da Uni\u00e3o",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "10.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "10.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "10.000,00"
+                },
+                "execucao": {
+                    "empenhado": "0,00",
+                    "empenhadoPorcentagem": "0,00%",
+                    "liquidado": "0,00",
+                    "liquidadoPorcentagem": "0,00%",
+                    "pago": "0,00",
+                    "pagoPorcentagem": "0,00%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.01",
+                    "unidadeOrcamentariaDescricao": "Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-6224",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ / ACOES SUPLEMENTARES AOS SERVICOS FORENSES",
+                    "esfera": "1",
+                    "fonteCodigo": "760",
+                    "fonteDescricao": "Recursos de Emolumentos e Taxas judiciais",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "20.506.567,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "20.506.567,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "20.506.567,00"
+                },
+                "execucao": {
+                    "empenhado": "7.015.707,98",
+                    "empenhadoPorcentagem": "34,21%",
+                    "liquidado": "6.283.382,27",
+                    "liquidadoPorcentagem": "30,64%",
+                    "pago": "5.983.305,65",
+                    "pagoPorcentagem": "29,18%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.01",
+                    "unidadeOrcamentariaDescricao": "Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-6243",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ / MANUTENCAO DAS ATIVIDADES JURISDICIONAIS DO TRIBUNAL DE JUSTICA",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "0,00",
+                    "creditosAdicionaisAcrescimo": "46.000.000,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "46.000.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "46.000.000,00"
+                },
+                "execucao": {
+                    "empenhado": "46.000.000,00",
+                    "empenhadoPorcentagem": "100,00%",
+                    "liquidado": "7.526.228,96",
+                    "liquidadoPorcentagem": "16,36%",
+                    "pago": "0,00",
+                    "pagoPorcentagem": "0,00%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.01",
+                    "unidadeOrcamentariaDescricao": "Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-6243",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ / MANUTENCAO DAS ATIVIDADES JURISDICIONAIS DO TRIBUNAL DE JUSTICA",
+                    "esfera": "1",
+                    "fonteCodigo": "501",
+                    "fonteDescricao": "Outros Recursos n\u00e3o Vinculados",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "27.470.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "27.470.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "27.470.000,00"
+                },
+                "execucao": {
+                    "empenhado": "0,00",
+                    "empenhadoPorcentagem": "0,00%",
+                    "liquidado": "0,00",
+                    "liquidadoPorcentagem": "0,00%",
+                    "pago": "0,00",
+                    "pagoPorcentagem": "0,00%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.01",
+                    "unidadeOrcamentariaDescricao": "Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-6243",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ / MANUTENCAO DAS ATIVIDADES JURISDICIONAIS DO TRIBUNAL DE JUSTICA",
+                    "esfera": "1",
+                    "fonteCodigo": "760",
+                    "fonteDescricao": "Recursos de Emolumentos e Taxas judiciais",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "594.144.542,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "1.700.000,00",
+                    "atualizada": "592.444.542,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "592.444.542,00"
+                },
+                "execucao": {
+                    "empenhado": "233.442.533,91",
+                    "empenhadoPorcentagem": "39,40%",
+                    "liquidado": "103.344.190,65",
+                    "liquidadoPorcentagem": "17,44%",
+                    "pago": "101.771.107,58",
+                    "pagoPorcentagem": "17,18%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.01",
+                    "unidadeOrcamentariaDescricao": "Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-6243",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ / MANUTENCAO DAS ATIVIDADES JURISDICIONAIS DO TRIBUNAL DE JUSTICA",
+                    "esfera": "1",
+                    "fonteCodigo": "760",
+                    "fonteDescricao": "Recursos de Emolumentos e Taxas judiciais",
+                    "gndCodigo": "4"
+                },
+                "dotacao": {
+                    "inicial": "1.135.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "1.135.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "1.135.000,00"
+                },
+                "execucao": {
+                    "empenhado": "17.155,60",
+                    "empenhadoPorcentagem": "1,51%",
+                    "liquidado": "17.155,60",
+                    "liquidadoPorcentagem": "1,51%",
+                    "pago": "17.155,60",
+                    "pagoPorcentagem": "1,51%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.01",
+                    "unidadeOrcamentariaDescricao": "Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "02-128",
+                    "programatica": "22-724-6772",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ / CAPACITACAO E APERFEICOAMENTO NO TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "3.679.751,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "3.679.751,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "3.679.751,00"
+                },
+                "execucao": {
+                    "empenhado": "1.397.924,00",
+                    "empenhadoPorcentagem": "37,99%",
+                    "liquidado": "1.397.924,00",
+                    "liquidadoPorcentagem": "37,99%",
+                    "pago": "1.397.924,00",
+                    "pagoPorcentagem": "37,99%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.01",
+                    "unidadeOrcamentariaDescricao": "Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "02-128",
+                    "programatica": "22-724-6772",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ / CAPACITACAO E APERFEICOAMENTO NO TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "760",
+                    "fonteDescricao": "Recursos de Emolumentos e Taxas judiciais",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "11.383.151,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "11.383.151,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "11.383.151,00"
+                },
+                "execucao": {
+                    "empenhado": "4.687.142,58",
+                    "empenhadoPorcentagem": "41,18%",
+                    "liquidado": "1.374.582,36",
+                    "liquidadoPorcentagem": "12,08%",
+                    "pago": "1.315.200,87",
+                    "pagoPorcentagem": "11,55%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.01",
+                    "unidadeOrcamentariaDescricao": "Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "02-131",
+                    "programatica": "01-726-2750",
+                    "programaDescricao": "Gest\u00e3o, Manuten\u00e7\u00e3o e Servi\u00e7os ao Estado",
+                    "acaoESubtitulo": "Gest\u00e3o, Manuten\u00e7\u00e3o e Servi\u00e7os ao Estado - TJ / PUBLICIDADE INSTITUCIONAL - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "760",
+                    "fonteDescricao": "Recursos de Emolumentos e Taxas judiciais",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "4.168.889,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "4.168.889,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "4.168.889,00"
+                },
+                "execucao": {
+                    "empenhado": "1.522.575,23",
+                    "empenhadoPorcentagem": "36,52%",
+                    "liquidado": "376.735,04",
+                    "liquidadoPorcentagem": "9,04%",
+                    "pago": "370.683,48",
+                    "pagoPorcentagem": "8,89%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.33",
+                    "unidadeOrcamentariaDescricao": "Encargos Gerais do Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "10-122",
+                    "programatica": "02-725-2679",
+                    "programaDescricao": "Encargos Especiais",
+                    "acaoESubtitulo": "Encargos Especiais - TJ / CONTRIBUICAO PATRONAL AO FAS/RS - IPE SAUDE - INATIVOS E PENSIONISTAS - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "31.892.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "31.892.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "31.892.000,00"
+                },
+                "execucao": {
+                    "empenhado": "12.721.171,59",
+                    "empenhadoPorcentagem": "39,89%",
+                    "liquidado": "12.721.171,59",
+                    "liquidadoPorcentagem": "39,89%",
+                    "pago": "10.137.246,53",
+                    "pagoPorcentagem": "31,79%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.33",
+                    "unidadeOrcamentariaDescricao": "Encargos Gerais do Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "10-122",
+                    "programatica": "02-725-6245",
+                    "programaDescricao": "Encargos Especiais",
+                    "acaoESubtitulo": "Encargos Especiais - TJ / CONTRIBUICAO PATRONAL AO FAS/RS - IPE SAUDE - ATIVOS - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "29.000.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "29.000.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "29.000.000,00"
+                },
+                "execucao": {
+                    "empenhado": "12.210.105,62",
+                    "empenhadoPorcentagem": "42,10%",
+                    "liquidado": "12.210.105,62",
+                    "liquidadoPorcentagem": "42,10%",
+                    "pago": "9.793.883,45",
+                    "pagoPorcentagem": "33,77%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.33",
+                    "unidadeOrcamentariaDescricao": "Encargos Gerais do Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "28-273",
+                    "programatica": "02-725-8603",
+                    "programaDescricao": "Encargos Especiais",
+                    "acaoESubtitulo": "Encargos Especiais - TJ /  \nCONTRIBUICAO DO PATROCINADOR AO RPC/RS - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "2.000.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "2.000.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "2.000.000,00"
+                },
+                "execucao": {
+                    "empenhado": "917.658,78",
+                    "empenhadoPorcentagem": "45,88%",
+                    "liquidado": "827.825,43",
+                    "liquidadoPorcentagem": "41,39%",
+                    "pago": "596.778,84",
+                    "pagoPorcentagem": "29,84%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.33",
+                    "unidadeOrcamentariaDescricao": "Encargos Gerais do Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "28-274",
+                    "programatica": "02-725-8034",
+                    "programaDescricao": "Encargos Especiais",
+                    "acaoESubtitulo": "Encargos Especiais - TJ / BENEF\u00cdCIO ESPECIAL - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "50.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "50.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "50.000,00"
+                },
+                "execucao": {
+                    "empenhado": "0,00",
+                    "empenhadoPorcentagem": "0,00%",
+                    "liquidado": "0,00",
+                    "liquidadoPorcentagem": "0,00%",
+                    "pago": "0,00",
+                    "pagoPorcentagem": "0,00%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.33",
+                    "unidadeOrcamentariaDescricao": "Encargos Gerais do Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "28-846",
+                    "programatica": "02-725-6529",
+                    "programaDescricao": "Encargos Especiais",
+                    "acaoESubtitulo": "Encargos Especiais - TJ / OUTRAS CONTRIBUICOES PATRONAIS - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "40.212.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "40.212.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "40.212.000,00"
+                },
+                "execucao": {
+                    "empenhado": "39.867.171,76",
+                    "empenhadoPorcentagem": "99,14%",
+                    "liquidado": "12.011.000,09",
+                    "liquidadoPorcentagem": "29,87%",
+                    "pago": "12.011.000,09",
+                    "pagoPorcentagem": "29,87%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.33",
+                    "unidadeOrcamentariaDescricao": "Encargos Gerais do Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "28-846",
+                    "programatica": "02-725-6530",
+                    "programaDescricao": "Encargos Especiais",
+                    "acaoESubtitulo": "Encargos Especiais - TJ / INDENIZACOES, REEMBOLSOS E RESTITUICOES - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "57.565.172,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "57.565.172,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "57.565.172,00"
+                },
+                "execucao": {
+                    "empenhado": "3.542.102,23",
+                    "empenhadoPorcentagem": "6,15%",
+                    "liquidado": "3.542.102,23",
+                    "liquidadoPorcentagem": "6,15%",
+                    "pago": "3.542.102,23",
+                    "pagoPorcentagem": "6,15%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.33",
+                    "unidadeOrcamentariaDescricao": "Encargos Gerais do Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "28-846",
+                    "programatica": "02-725-6530",
+                    "programaDescricao": "Encargos Especiais",
+                    "acaoESubtitulo": "Encargos Especiais - TJ / INDENIZACOES, REEMBOLSOS E RESTITUICOES - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "10.000.000,00",
+                    "creditosAdicionaisAcrescimo": "14.000.000,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "24.000.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "24.000.000,00"
+                },
+                "execucao": {
+                    "empenhado": "14.056.437,94",
+                    "empenhadoPorcentagem": "58,57%",
+                    "liquidado": "14.056.437,94",
+                    "liquidadoPorcentagem": "58,57%",
+                    "pago": "14.056.437,94",
+                    "pagoPorcentagem": "58,57%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.33",
+                    "unidadeOrcamentariaDescricao": "Encargos Gerais do Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "28-846",
+                    "programatica": "02-725-6530",
+                    "programaDescricao": "Encargos Especiais",
+                    "acaoESubtitulo": "Encargos Especiais - TJ / INDENIZACOES, REEMBOLSOS E RESTITUICOES - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "760",
+                    "fonteDescricao": "Recursos de Emolumentos e Taxas judiciais",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "23.021.782,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "23.021.782,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "23.021.782,00"
+                },
+                "execucao": {
+                    "empenhado": "1.969.363,78",
+                    "empenhadoPorcentagem": "8,55%",
+                    "liquidado": "1.969.363,78",
+                    "liquidadoPorcentagem": "8,55%",
+                    "pago": "1.969.363,78",
+                    "pagoPorcentagem": "8,55%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.33",
+                    "unidadeOrcamentariaDescricao": "Encargos Gerais do Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "28-846",
+                    "programatica": "02-725-6846",
+                    "programaDescricao": "Encargos Especiais",
+                    "acaoESubtitulo": "Encargos Especiais - TJ / CONVERSAO DE LICENCA PREMIO EM PECUNIA - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "144.412.448,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "144.412.448,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "144.412.448,00"
+                },
+                "execucao": {
+                    "empenhado": "94.402.394,92",
+                    "empenhadoPorcentagem": "65,37%",
+                    "liquidado": "94.402.394,92",
+                    "liquidadoPorcentagem": "65,37%",
+                    "pago": "94.402.394,92",
+                    "pagoPorcentagem": "65,37%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.33",
+                    "unidadeOrcamentariaDescricao": "Encargos Gerais do Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "28-846",
+                    "programatica": "02-725-8414",
+                    "programaDescricao": "Encargos Especiais",
+                    "acaoESubtitulo": "Encargos Especiais - TJ / CONTRIBUICAO PATRONAL AO FUNDOPREV CIVIL - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "7.050.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "7.050.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "7.050.000,00"
+                },
+                "execucao": {
+                    "empenhado": "5.114.676,78",
+                    "empenhadoPorcentagem": "72,55%",
+                    "liquidado": "4.791.510,08",
+                    "liquidadoPorcentagem": "67,96%",
+                    "pago": "3.662.538,52",
+                    "pagoPorcentagem": "51,95%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.33",
+                    "unidadeOrcamentariaDescricao": "Encargos Gerais do Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "28-846",
+                    "programatica": "02-725-8584",
+                    "programaDescricao": "Encargos Especiais",
+                    "acaoESubtitulo": "Encargos Especiais - TJ /  \nCONTRIBUICAO PATRONAL AO RPPS/RS - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "572.980.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "572.980.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "572.980.000,00"
+                },
+                "execucao": {
+                    "empenhado": "266.455.166,90",
+                    "empenhadoPorcentagem": "46,50%",
+                    "liquidado": "239.831.613,37",
+                    "liquidadoPorcentagem": "41,86%",
+                    "pago": "221.466.869,62",
+                    "pagoPorcentagem": "38,65%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.33",
+                    "unidadeOrcamentariaDescricao": "Encargos Gerais do Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "28-846",
+                    "programatica": "02-725-8585",
+                    "programaDescricao": "Encargos Especiais",
+                    "acaoESubtitulo": "Encargos Especiais - TJ /  \nCOMPLEMENTACAO FINANCEIRA AO RPPS/RS - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "356.850.103,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "356.850.103,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "356.850.103,00"
+                },
+                "execucao": {
+                    "empenhado": "125.938.862,02",
+                    "empenhadoPorcentagem": "35,29%",
+                    "liquidado": "125.938.862,02",
+                    "liquidadoPorcentagem": "35,29%",
+                    "pago": "125.938.862,02",
+                    "pagoPorcentagem": "35,29%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.33",
+                    "unidadeOrcamentariaDescricao": "Encargos Gerais do Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "28-846",
+                    "programatica": "02-725-8903",
+                    "programaDescricao": "Encargos Especiais",
+                    "acaoESubtitulo": "Encargos Especiais - TJ / PENSOES ESPECIAIS - TJ",
+                    "esfera": "1",
+                    "fonteCodigo": "500",
+                    "fonteDescricao": "Recursos n\u00e3o vinculados de Impostos",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "9.750.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "9.750.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "9.750.000,00"
+                },
+                "execucao": {
+                    "empenhado": "4.235.363,06",
+                    "empenhadoPorcentagem": "43,44%",
+                    "liquidado": "3.797.863,06",
+                    "liquidadoPorcentagem": "38,95%",
+                    "pago": "3.485.363,06",
+                    "pagoPorcentagem": "35,75%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.40",
+                    "unidadeOrcamentariaDescricao": "Unidade Previdenci\u00e1ria Descentralizada - Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "09-272",
+                    "programatica": "04-706-8703",
+                    "programaDescricao": "Sustentabilidade Fiscal e Novas Parcerias",
+                    "acaoESubtitulo": "Gest\u00e3o do Regime Pr\u00f3prio de Previd\u00eancia Social /  \nBENEFICIOS PREVIDENCIARIOS FUNDOPREV CIVIL - UPD - TJ",
+                    "esfera": "2",
+                    "fonteCodigo": "800",
+                    "fonteDescricao": "Recursos vinculados ao RPPS - Fundo em Capitaliza\u00e7\u00e3o (Plano Previdenci\u00e1rio)",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "446.177,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "446.177,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "446.177,00"
+                },
+                "execucao": {
+                    "empenhado": "213.833,35",
+                    "empenhadoPorcentagem": "47,93%",
+                    "liquidado": "193.416,70",
+                    "liquidadoPorcentagem": "43,35%",
+                    "pago": "178.833,35",
+                    "pagoPorcentagem": "40,08%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.40",
+                    "unidadeOrcamentariaDescricao": "Unidade Previdenci\u00e1ria Descentralizada - Tribunal de Justi\u00e7a",
+                    "funcaoESubFuncao": "09-272",
+                    "programatica": "04-706-8803",
+                    "programaDescricao": "Sustentabilidade Fiscal e Novas Parcerias",
+                    "acaoESubtitulo": "Gest\u00e3o do Regime Pr\u00f3prio de Previd\u00eancia Social /  \nBENEFICIOS PREVIDENCIARIOS RPPS/RS - UPD - TJ",
+                    "esfera": "2",
+                    "fonteCodigo": "801",
+                    "fonteDescricao": "Recursos vinculados ao RPPS - Fundo em Reparti\u00e7\u00e3o (Plano Financeiro)",
+                    "gndCodigo": "1"
+                },
+                "dotacao": {
+                    "inicial": "929.720.792,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "929.720.792,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "929.720.792,00"
+                },
+                "execucao": {
+                    "empenhado": "426.350.145,34",
+                    "empenhadoPorcentagem": "45,86%",
+                    "liquidado": "384.641.811,99",
+                    "liquidadoPorcentagem": "41,37%",
+                    "pago": "354.850.145,34",
+                    "pagoPorcentagem": "38,17%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.92",
+                    "unidadeOrcamentariaDescricao": "Fundo de Reaparelhamento do Poder Judici\u00e1rio",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-9050",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ / MANUTENCAO E QUALIFICACAO DE ATIVIDADES FINS DO PODER JUDICIARIO",
+                    "esfera": "1",
+                    "fonteCodigo": "759",
+                    "fonteDescricao": "Recursos vinculados a fundos",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "16.694.870,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "16.694.870,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "16.694.870,00"
+                },
+                "execucao": {
+                    "empenhado": "228.050,55",
+                    "empenhadoPorcentagem": "1,37%",
+                    "liquidado": "2.721,35",
+                    "liquidadoPorcentagem": "0,02%",
+                    "pago": "2.721,35",
+                    "pagoPorcentagem": "0,02%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.92",
+                    "unidadeOrcamentariaDescricao": "Fundo de Reaparelhamento do Poder Judici\u00e1rio",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-9050",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ / MANUTENCAO E QUALIFICACAO DE ATIVIDADES FINS DO PODER JUDICIARIO",
+                    "esfera": "1",
+                    "fonteCodigo": "759",
+                    "fonteDescricao": "Recursos vinculados a fundos",
+                    "gndCodigo": "4"
+                },
+                "dotacao": {
+                    "inicial": "10.334.457,00",
+                    "creditosAdicionaisAcrescimo": "23.000.000,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "33.334.457,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "33.334.457,00"
+                },
+                "execucao": {
+                    "empenhado": "17.674.494,17",
+                    "empenhadoPorcentagem": "53,02%",
+                    "liquidado": "573.203,69",
+                    "liquidadoPorcentagem": "1,72%",
+                    "pago": "386.451,34",
+                    "pagoPorcentagem": "1,16%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.92",
+                    "unidadeOrcamentariaDescricao": "Fundo de Reaparelhamento do Poder Judici\u00e1rio",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-9050",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ / MANUTENCAO E QUALIFICACAO DE ATIVIDADES FINS DO PODER JUDICIARIO",
+                    "esfera": "1",
+                    "fonteCodigo": "760",
+                    "fonteDescricao": "Recursos de Emolumentos e Taxas judiciais",
+                    "gndCodigo": "4"
+                },
+                "dotacao": {
+                    "inicial": "8.904.476,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "8.904.476,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "8.904.476,00"
+                },
+                "execucao": {
+                    "empenhado": "1.625.000,00",
+                    "empenhadoPorcentagem": "18,25%",
+                    "liquidado": "0,00",
+                    "liquidadoPorcentagem": "0,00%",
+                    "pago": "0,00",
+                    "pagoPorcentagem": "0,00%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.92",
+                    "unidadeOrcamentariaDescricao": "Fundo de Reaparelhamento do Poder Judici\u00e1rio",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-9077",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ /  \nAMPLIACAO E MELHORIA DOS ESPACOS FISICOS DO TRIBUNAL DE JUSTICA DO ESTADO",
+                    "esfera": "1",
+                    "fonteCodigo": "759",
+                    "fonteDescricao": "Recursos vinculados a fundos",
+                    "gndCodigo": "4"
+                },
+                "dotacao": {
+                    "inicial": "128.000.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "15.000.000,00",
+                    "atualizada": "113.000.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "113.000.000,00"
+                },
+                "execucao": {
+                    "empenhado": "9.372.523,66",
+                    "empenhadoPorcentagem": "8,29%",
+                    "liquidado": "335.851,98",
+                    "liquidadoPorcentagem": "0,30%",
+                    "pago": "335.851,98",
+                    "pagoPorcentagem": "0,30%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.92",
+                    "unidadeOrcamentariaDescricao": "Fundo de Reaparelhamento do Poder Judici\u00e1rio",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-9077",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ /  \nAMPLIACAO E MELHORIA DOS ESPACOS FISICOS DO TRIBUNAL DE JUSTICA DO ESTADO",
+                    "esfera": "1",
+                    "fonteCodigo": "760",
+                    "fonteDescricao": "Recursos de Emolumentos e Taxas judiciais",
+                    "gndCodigo": "4"
+                },
+                "dotacao": {
+                    "inicial": "8.207.259,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "8.207.259,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "8.207.259,00"
+                },
+                "execucao": {
+                    "empenhado": "0,00",
+                    "empenhadoPorcentagem": "0,00%",
+                    "liquidado": "0,00",
+                    "liquidadoPorcentagem": "0,00%",
+                    "pago": "0,00",
+                    "pagoPorcentagem": "0,00%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.92",
+                    "unidadeOrcamentariaDescricao": "Fundo de Reaparelhamento do Poder Judici\u00e1rio",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-9077",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ /  \nAMPLIACAO E MELHORIA DOS ESPACOS FISICOS DO TRIBUNAL DE JUSTICA DO ESTADO",
+                    "esfera": "1",
+                    "fonteCodigo": "759",
+                    "fonteDescricao": "Recursos vinculados a fundos",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "87.839.621,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "87.839.621,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "87.839.621,00"
+                },
+                "execucao": {
+                    "empenhado": "34.506.242,93",
+                    "empenhadoPorcentagem": "39,28%",
+                    "liquidado": "6.329.693,76",
+                    "liquidadoPorcentagem": "7,21%",
+                    "pago": "5.448.256,78",
+                    "pagoPorcentagem": "6,20%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.92",
+                    "unidadeOrcamentariaDescricao": "Fundo de Reaparelhamento do Poder Judici\u00e1rio",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-9077",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ /  \nAMPLIACAO E MELHORIA DOS ESPACOS FISICOS DO TRIBUNAL DE JUSTICA DO ESTADO",
+                    "esfera": "1",
+                    "fonteCodigo": "760",
+                    "fonteDescricao": "Recursos de Emolumentos e Taxas judiciais",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "9.000.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "9.000.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "9.000.000,00"
+                },
+                "execucao": {
+                    "empenhado": "0,00",
+                    "empenhadoPorcentagem": "0,00%",
+                    "liquidado": "0,00",
+                    "liquidadoPorcentagem": "0,00%",
+                    "pago": "0,00",
+                    "pagoPorcentagem": "0,00%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.92",
+                    "unidadeOrcamentariaDescricao": "Fundo de Reaparelhamento do Poder Judici\u00e1rio",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-9080",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ /  \nAMPLIACAO E MELHORIA DOS ESPACOS FISICOS NA JME",
+                    "esfera": "1",
+                    "fonteCodigo": "760",
+                    "fonteDescricao": "Recursos de Emolumentos e Taxas judiciais",
+                    "gndCodigo": "4"
+                },
+                "dotacao": {
+                    "inicial": "305.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "305.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "305.000,00"
+                },
+                "execucao": {
+                    "empenhado": "0,00",
+                    "empenhadoPorcentagem": "0,00%",
+                    "liquidado": "0,00",
+                    "liquidadoPorcentagem": "0,00%",
+                    "pago": "0,00",
+                    "pagoPorcentagem": "0,00%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.92",
+                    "unidadeOrcamentariaDescricao": "Fundo de Reaparelhamento do Poder Judici\u00e1rio",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-9080",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ /  \nAMPLIACAO E MELHORIA DOS ESPACOS FISICOS NA JME",
+                    "esfera": "1",
+                    "fonteCodigo": "760",
+                    "fonteDescricao": "Recursos de Emolumentos e Taxas judiciais",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "195.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "195.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "195.000,00"
+                },
+                "execucao": {
+                    "empenhado": "46.684,95",
+                    "empenhadoPorcentagem": "23,94%",
+                    "liquidado": "0,00",
+                    "liquidadoPorcentagem": "0,00%",
+                    "pago": "0,00",
+                    "pagoPorcentagem": "0,00%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.92",
+                    "unidadeOrcamentariaDescricao": "Fundo de Reaparelhamento do Poder Judici\u00e1rio",
+                    "funcaoESubFuncao": "02-126",
+                    "programatica": "22-724-9078",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ /  \nINFORMATIZACAO E MODERNIZACAO DO TRIBUNAL DE JUSTICA",
+                    "esfera": "1",
+                    "fonteCodigo": "759",
+                    "fonteDescricao": "Recursos vinculados a fundos",
+                    "gndCodigo": "4"
+                },
+                "dotacao": {
+                    "inicial": "43.914.920,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "43.914.920,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "43.914.920,00"
+                },
+                "execucao": {
+                    "empenhado": "23.832.505,84",
+                    "empenhadoPorcentagem": "54,27%",
+                    "liquidado": "4.916.283,36",
+                    "liquidadoPorcentagem": "11,20%",
+                    "pago": "4.811.455,49",
+                    "pagoPorcentagem": "10,96%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.92",
+                    "unidadeOrcamentariaDescricao": "Fundo de Reaparelhamento do Poder Judici\u00e1rio",
+                    "funcaoESubFuncao": "02-126",
+                    "programatica": "22-724-9078",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ /  \nINFORMATIZACAO E MODERNIZACAO DO TRIBUNAL DE JUSTICA",
+                    "esfera": "1",
+                    "fonteCodigo": "759",
+                    "fonteDescricao": "Recursos vinculados a fundos",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "101.146.132,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "8.000.000,00",
+                    "atualizada": "93.146.132,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "93.146.132,00"
+                },
+                "execucao": {
+                    "empenhado": "56.939.273,80",
+                    "empenhadoPorcentagem": "61,13%",
+                    "liquidado": "20.015.941,81",
+                    "liquidadoPorcentagem": "21,49%",
+                    "pago": "19.056.058,75",
+                    "pagoPorcentagem": "20,46%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.92",
+                    "unidadeOrcamentariaDescricao": "Fundo de Reaparelhamento do Poder Judici\u00e1rio",
+                    "funcaoESubFuncao": "02-126",
+                    "programatica": "22-724-9078",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ /  \nINFORMATIZACAO E MODERNIZACAO DO TRIBUNAL DE JUSTICA",
+                    "esfera": "1",
+                    "fonteCodigo": "760",
+                    "fonteDescricao": "Recursos de Emolumentos e Taxas judiciais",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "9.450.000,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "9.450.000,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "9.450.000,00"
+                },
+                "execucao": {
+                    "empenhado": "0,00",
+                    "empenhadoPorcentagem": "0,00%",
+                    "liquidado": "0,00",
+                    "liquidadoPorcentagem": "0,00%",
+                    "pago": "0,00",
+                    "pagoPorcentagem": "0,00%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.92",
+                    "unidadeOrcamentariaDescricao": "Fundo de Reaparelhamento do Poder Judici\u00e1rio",
+                    "funcaoESubFuncao": "02-126",
+                    "programatica": "22-724-9078",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ /  \nINFORMATIZACAO E MODERNIZACAO DO TRIBUNAL DE JUSTICA",
+                    "esfera": "1",
+                    "fonteCodigo": "760",
+                    "fonteDescricao": "Recursos de Emolumentos e Taxas judiciais",
+                    "gndCodigo": "4"
+                },
+                "dotacao": {
+                    "inicial": "7.413.231,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "7.413.231,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "7.413.231,00"
+                },
+                "execucao": {
+                    "empenhado": "0,00",
+                    "empenhadoPorcentagem": "0,00%",
+                    "liquidado": "0,00",
+                    "liquidadoPorcentagem": "0,00%",
+                    "pago": "0,00",
+                    "pagoPorcentagem": "0,00%"
+                }
+            },
+            {
+                "classificacao": {
+                    "unidadeOrcamentariaCodigo": "03.93",
+                    "unidadeOrcamentariaDescricao": "Fundo Notarial e Registral",
+                    "funcaoESubFuncao": "02-061",
+                    "programatica": "22-724-8094",
+                    "programaDescricao": "Justi\u00e7a Estadual",
+                    "acaoESubtitulo": "Manuten\u00e7\u00e3o e Amplia\u00e7\u00e3o da Capacidade Operacional do TJ / ATOS GRATUITOS E RENDA MINIMA DOS SERVICOS NOTARIAIS E REGISTRAIS",
+                    "esfera": "1",
+                    "fonteCodigo": "760",
+                    "fonteDescricao": "Recursos de Emolumentos e Taxas judiciais",
+                    "gndCodigo": "3"
+                },
+                "dotacao": {
+                    "inicial": "73.476.125,00",
+                    "creditosAdicionaisAcrescimo": "0,00",
+                    "creditosAdicionaisDescrescimos": "0,00",
+                    "atualizada": "73.476.125,00",
+                    "contingenciado": "0,00",
+                    "movLiquidaCreditosProvisao": "0,00",
+                    "movLiquidaCreditosDestaque": "0,00",
+                    "liquida": "73.476.125,00"
+                },
+                "execucao": {
+                    "empenhado": "31.728.006,86",
+                    "empenhadoPorcentagem": "43,18%",
+                    "liquidado": "31.728.006,86",
+                    "liquidadoPorcentagem": "43,18%",
+                    "pago": "31.728.006,86",
+                    "pagoPorcentagem": "43,18%"
+                }
+            }
+        ]
+    }
 }

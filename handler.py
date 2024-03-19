@@ -15,7 +15,10 @@ def buscar_orcamento(mes, ano):
         orcamentos[ano] = {}
         url = 'https://k8s-prd.tjrs.jus.br/public/api/transparencia/orcamento/{}/{}'.format(ano, mes)
         try:
-            dados = requests.get(url, verify=False, timeout=60)
+            dados = requests.get(url, verify=False, timeout=10, headers={
+                'accept': '*/*',
+                'connection': 'keep-alive'
+            })
             if dados.status_code == 200:
                 orcamentos[ano][mes] = dados.json()
                 with open('orcamentos.json', 'w') as file:
