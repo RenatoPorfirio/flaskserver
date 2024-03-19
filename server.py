@@ -1,6 +1,9 @@
 from flask import Flask, Response
-import requests
 import json
+import handler
+
+with open('orcamentos.json', 'r') as file:
+    orcamentos = json.load(file)
 
 erroApiJSON = json.dumps({
     "erroApi": "Erro ao buscar dados! Existe um possivel problema com a API do TJRS. Tente novamente mais tarde.",
@@ -18,13 +21,10 @@ def index():
 
 @app.route('/<ano>/<mes>')
 def buscarOrcamento(ano, mes):
-    try:
-        url = 'https://k8s-prd.tjrs.jus.br/public/api/transparencia/orcamento/{}/{}'.format(ano, mes)
-        dados = requests.get(url, verify=False, timeout=25)
-        if dados.status_code == 200:
-            return Response(status=200, response=dados.text, mimetype='application/json')
-        else:
-            return Response(status=dados.status_code, response=erroApiJSON, mimetype='application/json')
-    except Exception as e:
-        print(e)
-        return Response(status=500, response=erroConexaoJSON, mimetype='application/json')
+    status, orcamento = handler.buscar_orcamento(mes, ano)
+    if status == 200:
+        return Response(json.dumps(orcamento, indent=4), status=200, mimetype='application/json')
+    elif status == 201:
+        return Response(erroApiJSON, status=500, mimetype='application/json')
+    else:
+        return Response(erroConexaoJSON, status=500, mimetype='application/json')
