@@ -17,7 +17,8 @@ def buscar_orcamento(mes, ano):
         try:
             dados = requests.get(url, verify=False, timeout=10, headers={
                 'accept': '*/*',
-                'connection': 'keep-alive'
+                'connection': 'keep-alive',
+                'Cache-Control': 'no-cache',
             })
             if dados.status_code == 200:
                 orcamentos[ano][mes] = dados.json()
