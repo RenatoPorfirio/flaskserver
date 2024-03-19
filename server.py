@@ -27,4 +27,4 @@ def buscarOrcamento(ano, mes):
     elif status == 201:
         return Response(erroApiJSON, status=500, mimetype='application/json')
     else:
-        return Response(erroConexaoJSON, status=500, mimetype='application/json')
+        return Response(json.dumps(orcamento, indent=4), status=500, mimetype='application/json')

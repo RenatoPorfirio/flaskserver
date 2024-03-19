@@ -24,5 +24,4 @@ def buscar_orcamento(mes, ano):
             else:
                 return (201, {})
         except Exception as e:
-            print('erro: ', e)
-            return (500, {})
+            return (500, {'erro': e})
