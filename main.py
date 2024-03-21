@@ -1,4 +1,3 @@
-from gevent.pywsgi import WSGIServer
-from server import app
+from api.server import iniciar_api
 
-WSGIServer(('0.0.0.0', 8000), app).serve_forever()
+iniciar_api()
