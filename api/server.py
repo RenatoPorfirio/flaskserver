@@ -15,10 +15,13 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return 'API para buscar dados de orçamento do TJRS. Acesse /ano/mes para buscar os dados.'
+    return 'API para buscar dados de orçamento do TJRS. Acesse /mesIncio/anoInicio/mesFim/anoFim para buscar os dados.'
 
 @app.route('/<mesInicio>/<anoInicio>/<mesFim>/<anoFim>')
 def buscarOrcamento(mesInicio, anoInicio, mesFim, anoFim):
+    if not mesInicio.isnumeric() or not anoInicio.isnumeric() or not mesFim.isnumeric() or not anoFim.isnumeric():
+        return Response(json.dumps({"erro": "Os parâmetros devem ser numéricos."}, indent=4), status=400, mimetype='application/json')
+
     falha, lista_orcamento = buscar_intervalo_orcamentos(mesInicio, anoInicio, mesFim, anoFim)
     if falha:
         return Response(json.dumps(lista_orcamento, indent=4), status=500, mimetype='application/json')
