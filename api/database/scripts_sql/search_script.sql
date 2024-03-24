@@ -8,10 +8,10 @@ SELECT *
 FROM lista_orcamentos
 CROSS JOIN orcamento
 USING (id_lista)
-CROSS JOIN classificacao
+LEFT JOIN classificacao
 USING (id_orcamento)
-CROSS JOIN dotacao
+LEFT JOIN dotacao
 USING (id_orcamento)
-CROSS JOIN execucao
+LEFT JOIN execucao
 USING (id_orcamento)
-WHERE (2022 <= ano AND ano <= 2023);
+ORDER BY ano,mes ASC;

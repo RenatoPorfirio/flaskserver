@@ -1,0 +1,34 @@
+retorno da API: DadosOrcamento[] lista
+
+DadosOrcamento: {
+    int mes,
+    int ano,
+    Orcamento[] orcamentos
+}
+
+Orcamento: {
+    string unidadeOrcamentariaCodigo,
+    string unidadeOrcamentariaDescricao,
+    string funcaoESubFuncao,
+    string programatica,
+    string programaDescricao,
+    string acaoESubtitulo,
+    string esfera,
+    string fonteCodigo,
+    string fonteDescricao,
+    string gndCodigo,
+    string inicial,
+    string creditosAdicionaisAcrescimo,
+    string creditosAdicionaisDescrescimos,
+    string atualizada,
+    string contingenciado,
+    string movLiquidaCreditosProvisao,
+    string movLiquidaCreditosDestaque,
+    string liquida,
+    string empenhado,
+    string empenhadoPorcentagem,
+    string liquidado,
+    string liquidadoPorcentagem,
+    string pago,
+    string pagoPorcentagem
+}

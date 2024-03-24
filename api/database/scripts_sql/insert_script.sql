@@ -2,14 +2,14 @@ USE projeto_pdm;
 
 INSERT INTO lista_orcamentos
 VALUE(
-	82023,
-    8,
+	92023,
+    9,
     2023
 );
 
 INSERT INTO orcamento(id_lista)
 VALUE(
-	82023
+	92023
 );
 
 INSERT INTO classificacao(
@@ -48,14 +48,14 @@ INSERT INTO dotacao(
 	liquida
 )
 VALUES (
-	1770204012.00,
-	0.00,
-	375855000.00,
-	1394349012.00,
-	0.00,
-	0.00,
-	0.00,
-	1394349012.00
+	'1770204012.00',
+	'0.00',
+	'375855000.00',
+	'1394349012.00',
+	'0.00',
+	'0.00',
+	'0.00',
+	'1394349012.00'
 );
 
 INSERT INTO execucao(
@@ -67,10 +67,14 @@ INSERT INTO execucao(
 	pagoPorcentagem
 )
 VALUES (
-	809438150.90,
-	0.5805,
-	779438150.90,
-	0.559,
-	719438150.90,
-	0.516
+	'809438150.90',
+	'0.5805',
+	'779438150.90',
+	'0.559',
+	'719438150.90',
+	'0.516'
 );
+
+UPDATE classificacao
+SET unidadeOrcamentariaDescricao = "a"
+WHERE ()

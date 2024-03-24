@@ -20,39 +20,39 @@ CREATE TABLE orcamento(
 
 CREATE TABLE classificacao(
 	id_orcamento INT AUTO_INCREMENT,
-	unidadeOrcamentariaCodigo VARCHAR(5),
+	unidadeOrcamentariaCodigo VARCHAR(100),
     unidadeOrcamentariaDescricao VARCHAR(100),
-	funcaoESubFuncao VARCHAR(6),
-	programatica VARCHAR(11),
+	funcaoESubFuncao VARCHAR(100),
+	programatica VARCHAR(100),
 	programaDescricao VARCHAR(500),
 	acaoESubtitulo VARCHAR(1000),
-	esfera CHAR,
-	fonteCodigo VARCHAR(3),
+	esfera VARCHAR(100),
+	fonteCodigo VARCHAR(100),
 	fonteDescricao VARCHAR(500),
-    gndCodigo CHAR,
+    gndCodigo VARCHAR(100),
     PRIMARY KEY (id_orcamento)
 );
 
 CREATE TABLE dotacao(
 	id_orcamento INT AUTO_INCREMENT,
-    inicial NUMERIC(12, 2),
-	creditosAdicionaisAcrescimo NUMERIC(12, 2),
-	creditosAdicionaisDescrescimos NUMERIC(12, 2),
-	atualizada NUMERIC(12, 2),
-	contingenciado NUMERIC(12, 2),
-	movLiquidaCreditosProvisao NUMERIC(12, 2),
-	movLiquidaCreditosDestaque NUMERIC(12, 2),
-	liquida NUMERIC(12, 2),
+    inicial VARCHAR(100),
+	creditosAdicionaisAcrescimo VARCHAR(100),
+	creditosAdicionaisDescrescimos VARCHAR(100),
+	atualizada VARCHAR(100),
+	contingenciado VARCHAR(100),
+	movLiquidaCreditosProvisao VARCHAR(100),
+	movLiquidaCreditosDestaque VARCHAR(100),
+	liquida VARCHAR(100),
     PRIMARY KEY (id_orcamento)
 );
 
 CREATE TABLE execucao(
 	id_orcamento INT AUTO_INCREMENT,
-    empenhado NUMERIC(12, 2),
-	empenhadoPorcentagem FLOAT,
-	liquidado NUMERIC(12, 2),
-	liquidadoPorcentagem FLOAT,
-	pago NUMERIC(12, 2),
-	pagoPorcentagem FLOAT,
+    empenhado VARCHAR(100),
+	empenhadoPorcentagem VARCHAR(100),
+	liquidado VARCHAR(100),
+	liquidadoPorcentagem VARCHAR(100),
+	pago VARCHAR(100),
+	pagoPorcentagem VARCHAR(100),
     PRIMARY KEY (id_orcamento)
 );
